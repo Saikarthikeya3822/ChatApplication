@@ -1,0 +1,8 @@
+
+.background-image {
+    background-image: url('Chat.jpg'); /* Replace 'chat.jpg' with the path to your image */
+    background-size: 50%;
+    background-position:center;
+    height: 800px; /* Adjust the height as needed */
+    width: 100%;
+}
